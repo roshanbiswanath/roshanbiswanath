@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=roshanbiswanath&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="roshanbiswanath" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=roshanbiswanath&theme=onedark&column=4" alt="roshanbiswanath" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=roshanbiswanath&theme=onedark&rank=-C" alt="roshanbiswanath" /></a> </p>
 <!--
 <p align="center"> <a href="https://twitter.com/roshanbiswanath" target="blank"><img src="https://img.shields.io/twitter/follow/roshanbiswanath?logo=twitter&style=for-the-badge" alt="roshanbiswanath" /></a> </p>
 -->
